@@ -17,4 +17,4 @@ THEN I am able to successfully create, update, and delete data in my database<br
 ```
 git clone git@github.com:eramos3/E-commerce-Back-End.git
 ```
-<!-- [working deployed link recording]() -->
+[working deployed link recording](https://drive.google.com/file/d/1ZIx3ckuXl-f6DtkW9ne301-tCWHqXo3F/view)
